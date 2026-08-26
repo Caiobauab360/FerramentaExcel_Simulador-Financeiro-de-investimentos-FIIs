@@ -64,7 +64,7 @@ Durante a execução deste desafio foi possível consolidar competências em:
 * Organização de documentação técnica e controle de versão no GitHub.
 
 ---
-Demonstração da ferramenta:
+# 📈 Demonstração da ferramenta:
 
 ![Demonstração da Planilha](images/Demonstração.png)
 
