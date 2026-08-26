@@ -65,6 +65,9 @@ Durante a execução deste desafio foi possível consolidar competências em:
 
 ---
 
+![Demonstração da Planilha](images/Demonstração.png)
+
+---
 ## 👨‍💻 Autor
 Caio Pereira Bauab
 Desenvolvido como projeto de estudo para a **Digital Innovation One (DIO)** em parceria com o **Santander**.
