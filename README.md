@@ -64,10 +64,12 @@ Durante a execução deste desafio foi possível consolidar competências em:
 * Organização de documentação técnica e controle de versão no GitHub.
 
 ---
+Demonstração da ferramenta:
 
 ![Demonstração da Planilha](images/Demonstração.png)
 
 ---
 ## 👨‍💻 Autor
 Caio Pereira Bauab
+
 Desenvolvido como projeto de estudo para a **Digital Innovation One (DIO)** em parceria com o **Santander**.
